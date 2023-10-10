@@ -1,6 +1,6 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 /youtube
-/.vscode
+.vscode
 /course-site-server/node_modules
 
 /course-site-server/config/config.env
