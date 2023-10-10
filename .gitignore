@@ -1,0 +1,27 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+/youtube
+
+/course-site-server/node_modules
+
+/course-site-server/config/config.env
+# dependencies
+/course-site/node_modules
+/course-site/.pnp
+/course-site/.pnp.js
+
+# testing
+/course-site/coverage
+
+# production
+/course-site/build
+
+# misc
+/course-site/.DS_Store
+/course-site/.env.local
+/course-site/.env.development.local
+/course-site/.env.test.local
+/course-site/.env.production.local
+
+/course-site/npm-debug.log*
+/course-site/yarn-debug.log*
+/course-site/yarn-error.log*
